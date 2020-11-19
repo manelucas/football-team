@@ -1,4 +1,4 @@
-[{
+const player = [{
         "id": 3176,
         "name": "Matthias Ginter",
         "position": "Defender",

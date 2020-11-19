@@ -1,12 +1,14 @@
 import React from "react";
 import styles from "./Routes.module.scss";
-import { Routes } from "@reach-router";
+import { Router } from "@reach/router";
 
 const Routes = () => {
   return (
-    <Router>
+    // <Router>
+    <div>
       <p>Routes works</p>
-    </Router>
+    </div>
+    // </Router>
   );
 };
 
